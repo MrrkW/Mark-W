@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Mark Vdovin",
-    image: "/Ek85YAmNabE.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/public/Ek85YAmNabE.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "photographer",
     bio: ".",
     email: "mark.verzerrung@gmail.com",
@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "Mark Vdovin Portfolio",
     description: "welcome to my blog",
-    theme: "light", // ['light', 'dark', 'auto']
+    theme: "dark", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
