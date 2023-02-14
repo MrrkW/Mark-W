@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "Mark Vdovin Portfolio",
     description: "welcome to my blog",
-    theme: "dark", // ['light', 'dark', 'auto']
+    theme: "light", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
